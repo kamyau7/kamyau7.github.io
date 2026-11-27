@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://kamyau7.github.io/sitemap.xml
